@@ -2,5 +2,5 @@ Networking Enthusiast\
 Programmer\
 Cryptocurrency Investor
 
-Wakeboarder, Surfer and Stand Up Paddleboarder from South Africa
+Wakeboarder, Surfer, Bodysurfer and Stand Up Paddleboarder from South Africa
 
