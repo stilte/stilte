@@ -1,6 +1,14 @@
+About:\
 Networking Enthusiast\
 Programmer\
 Cryptocurrency Investor
 
-Wakeboarder, Surfer, Bodysurfer and Stand Up Paddleboarder from South Africa
+Sports:\
+Wakeboarding\
+Surfing\
+Bodysurfing\
+Stand Up Paddleboarding
 
+Technologies:\
+Python\
+Bash
