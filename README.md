@@ -9,6 +9,6 @@ Surfing\
 Bodysurfing\
 Stand Up Paddleboarding
 
-Technologies:\
+Technologies and Languages:\
 Python\
 Bash
