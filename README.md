@@ -1,16 +1,8 @@
-About:\
-Programmer\
-Cryptocurrency Investor
+<h1 align="center">
+Sup, I'm Lewis
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+</h1>
 
-Sports:\
-Wakeboarding\
-Surfing\
-Bodysurfing\
-Stand Up Paddleboarding
-
-Technologies and Languages:\
-Python\
-Bash
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stilte&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+- Cryptocurrency investor and enthusiast
+- I love Python and working with Servers
+- I love Surfing
