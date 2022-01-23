@@ -6,3 +6,4 @@ Sup, I'm Lewis
 - Cryptocurrency investor and enthusiast
 - I love Python and working with Servers
 - I love Surfing
+- Virtual Helicopter Pilot - Robinson R44
