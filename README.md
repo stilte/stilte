@@ -7,3 +7,10 @@ Sup, I'm Lewis
 - I love Python and working with Servers
 - I love Surfing
 - Flight Simmer
+
+Experiences:
+Python
+
+What i'm planning to learn:
+Bash
+Docker
