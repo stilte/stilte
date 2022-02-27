@@ -9,8 +9,8 @@ Sup, I'm Lewis
 - Flight Simmer
 
 Experiences:
-Python
+- Python
 
 What i'm planning to learn:
-Bash
-Docker
+- Bash
+- Docker
